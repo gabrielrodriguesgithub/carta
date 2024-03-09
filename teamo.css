@@ -1,0 +1,13 @@
+body {
+    background-image: url(/img.jpeg);
+}
+
+.container{
+    margin: 200px 45px;
+    height: 400px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 45px;
+}
